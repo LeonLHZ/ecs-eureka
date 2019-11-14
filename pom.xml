@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>cn.lhz</groupId>
-	<artifactId>ecs</artifactId>
+	<artifactId>ecs-eureka</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>ecs-eureka</name>
 	<description>ecs-eureka project for Spring Boot</description>

@@ -5,3 +5,4 @@ spring:
       name: ecs-eureka
       label: master
       proflie: prod
+

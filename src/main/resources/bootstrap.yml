@@ -1,7 +1,7 @@
 spring:
   cloud:
     config:
-      uri: http://94.191.119.192:8888
+      uri: http://www.lhz520.cn:8081/api/config
       name: ecs-eureka
       label: master
       proflie: prod
